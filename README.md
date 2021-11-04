@@ -1,12 +1,13 @@
 /**
- * @name Discord+ Source Code
+ * @name Discord Theme Toma awa
  * @version 3.1.1
- * @author PlusInsta
- * @authorLink https://plusinsta.xyz
- * @description For developers only. If you're a user, please download the latest release instead.
- * @website https://plusinsta.xyz/discord-plus
- * @source https://raw.githubusercontent.com/PlusInsta/discord-plus/master/DiscordPlus-source.theme.css
- * @invite 2Jwh2nS
+ * @author Toma awa
+ * @authorLink https://tinkypinky123321.wixsite.com/hackertinkypinky
+ * @donate https://www.paypal.me/TomaawaCL
+ * @description A sleek, customizable Discord theme. Discord server: https://discord.gg/4zYtNm2W24  Donate: https://www.paypal.me/TomaawaCL
+ * @website https://tinkypinky123321.wixsite.com/hackertinkypinky
+ * @source https://github.com/Tomaawa123/extras.css
+ * @invite https://discord.gg/4zYtNm2W24
 */
 @import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
 @import url(https://plusinsta.xyz/discord-plus/assets/extras.css);
