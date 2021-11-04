@@ -17,7 +17,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Kosugi&family=RocknRoll+One&family=Gothic+A1&family=Black+Han+Sans&family=PT+Sans+Caption&family=Russo+One&family=Palanquin+Dark&family=Raleway:wght@500&family=Commissioner&family=Alegreya+Sans:wght@700&family=Mitr&family=Lalezar&display=swap);
 
 :root {
-	--dplus-background: url(https://i.imgur.com/3AiL3yN.png);
+	--dplus-background: url(https://i.gifer.com/origin/e4/e45e2e0cbc69e586f6f70a82b38d0990.gif);
 
 	/* Accent colors */
 	--dplus-accent-ui: #802060;
@@ -49,8 +49,8 @@
 	--dplus-spacing-app: 10px;
 
 	/* Icons */
-	--dplus-icon-home-dark: url(https://cdn.discordapp.com/attachments/895316639027986463/905801318705295381/home_dark.svg.jpg);
-	--dplus-icon-home-light: url(https://cdn.discordapp.com/attachments/895316639027986463/905801318705295381/home_dark.svg.jpg);
+	--dplus-icon-home-dark: url(https://cdn.discordapp.com/attachments/895316639027986463/905806146189815858/home_dark.svg.png);
+	--dplus-icon-home-light: url(https://cdn.discordapp.com/attachments/895316639027986463/905806146189815858/home_dark.svg.png);
 
 		/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
